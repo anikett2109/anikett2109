@@ -2,17 +2,16 @@
   <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="80%" alt="hero-gif" />  
 </p>
 
-<h1 align="center">Hey 👋, I'm Ansari Furqan</h1>
+<h1 align="center">Hey 👋, I'm Aniket Mahajan</h1>
 
 ## 🌟 About Me
 
-- 🎓 BSc.IT Graduate | Ex-Data Associate @3i-Infotech  
+- 🎓 BE IT Graduate 
 - 💻 Full Stack & MERN Stack Developer  
-- 🎨 Curious Creator | Design Storyteller | Pixel Aficionado  
-- 🚀 Passionate about UI/UX, Real-time Web Apps, and Clean Code  
-- ✨ Currently learning: **Python**  
+- 🎨 Curious Creator | Design Storyteller  
+- 🚀 Passionate about UI/UX, Real-time Web Apps, and Clean Code   
 - 📍 Based in Mumbai | Open to PAN India / Remote / Abroad roles
-- 💼 Feel free to reach me out: [26furqan.ansari](mailto:26furqan.ansari@gmail.com)
+- 💼 Feel free to reach me out: [Aniket Mahajan](mailto:aniketmahajan2109@gmail.com)
 
 ---
 
@@ -24,7 +23,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
@@ -46,9 +44,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ---
 
